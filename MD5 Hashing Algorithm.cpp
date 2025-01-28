@@ -83,7 +83,6 @@ string simpleMD5(const string &input) {
        << setw(8) << setfill('0') << d0;
     return ss.str();
 }
-
 int main() {
     string input;
     cout << "Enter the string to hash: ";
