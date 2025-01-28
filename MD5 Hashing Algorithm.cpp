@@ -2,8 +2,8 @@
 #include <string>
 #include <vector>
 #include <iomanip>
-#include <cmath>       // For sin, pow, floor
-#include <sstream>     // For stringstream
+#include <cmath>
+#include <sstream>
 
 using namespace std;
 
