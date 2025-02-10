@@ -16,3 +16,6 @@ MD5 (Message-Digest Algorithm 5) is a widely used cryptographic hash function th
 
 **4. Output:**
    - Concatenate the variables (A, B, C, D) to form the final 128-bit hash value.
+
+# Explanation
+MD5 is designed to take an input message of arbitrary length and produce a fixed-length hash value. It is commonly represented as a 32-character hexadecimal number. MD5 is fast and simple but is no longer considered secure for cryptographic purposes due to vulnerabilities to collision attacks. However, it is still used for checksums and basic data integrity verification.
